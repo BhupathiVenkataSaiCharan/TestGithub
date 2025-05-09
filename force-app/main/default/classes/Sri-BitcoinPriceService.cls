@@ -42,5 +42,6 @@ global class BitcoinPriceService {
             RestContext.response.statusCode = 500;
             RestContext.response.responseBody = Blob.valueOf('{"error": "' + e.getMessage() + '"}');
         }
+        // test update
     }
 }

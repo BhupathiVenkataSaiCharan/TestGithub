@@ -2,7 +2,8 @@ public with sharing class GitClass {
     public static void gitClassMethod() {
 
     }
-    public class string myrules(){
+    public static string myrules(){
         //my rules
     }
+    
 }
